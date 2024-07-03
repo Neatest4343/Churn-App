@@ -3,7 +3,7 @@ import numpy as np
 import joblib
 
 # Load the model using joblib with absolute path
-loaded_model = joblib.load('C:\\Users\HP\\Desktop\\CHURN\\model.joblib')
+loaded_model = joblib.load('model.joblib')
 
 # Use the model for predictions or further operations
 
